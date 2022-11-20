@@ -15,6 +15,8 @@ public class ConexionBD {
     PreparedStatement sentencia;
     private Connection conn;
 
+    
+    
     public ConexionBD() {
 
         nombreBD = "gavilanes2021";
