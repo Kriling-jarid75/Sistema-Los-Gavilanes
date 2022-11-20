@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000190          N.CLIENTE:667
+ FECHA DEL DIA: 2021-11-27   HORA: 18:21:53 PM
+ VENDEDOR: BETSABE                      
+ CLIENTE: ISABEL GONZALEZ               
+ NUMERO DE TELEFONO: 5623880186         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $100.0   $100.0
+ 2.00    TORTILLAS            $17.0    $34.0
+                                        
+ TOTAL A PAGAR:......................$134.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

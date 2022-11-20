@@ -1,0 +1,73 @@
+                              
+ ===============================================
+            ***TICKET DE MIS VENTAS ***
+ FECHA DEL DIA: 11:12:2021   HORA: 07:36:52 PM
+ REPARTIDOR: ALEJANDRO LOPEZ ALONSO
+ Le informamos que el repartidor: 
+ ALEJANDRO LOPEZ ALONSO
+ usted debe de pagar un total de: $5272.0
+ OBSERVACIONES:               
+ ===============================================
+            ------MIS ORDENES------
+ ID_O   NOMBRE_P          CANTIDAD    $PRECIO$
+ 7      COSTILLA ADOBADA	   3.0	       $300.0
+ 8      POLLO ROSTIZADO	   1.0	       $100.0
+ 8      PESCUEZITOS	   4.0	       $10.0
+ 14      POLLO ROSTIZADO	   1.5	       $150.0
+ 15      POLLO ROSTIZADO	   1.0	       $100.0
+ 15      PESCUEZITOS	   8.0	       $20.0
+ 22      POLLO ROSTIZADO	   1.5	       $150.0
+ 22      TORTILLAS	   1.0	       $17.0
+ 25      POLLO ROSTIZADO	   6.0	       $600.0
+ 27      POLLO ROSTIZADO	   1.0	       $100.0
+ 27      TORTILLAS	   1.0	       $17.0
+ 33      POLLO ROSTIZADO	   2.0	       $200.0
+ 33      TORTILLAS	   1.0	       $17.0
+ 20      POLLO ROSTIZADO	   1.0	       $100.0
+ 20      PESCUEZITOS	   4.0	       $10.0
+ 20      TORTILLAS	   1.0	       $17.0
+ 20      SALCHICHAS	   4.0	       $10.0
+ 41      POLLO ROSTIZADO	   1.0	       $100.0
+ 44      POLLO ROSTIZADO	   1.0	       $100.0
+ 44      SALSA GOURMET	   1.0	       $20.0
+ 43      POLLO ROSTIZADO	   2.0	       $200.0
+ 46      POLLO ROSTIZADO	   1.5	       $150.0
+ 46      TORTILLAS	   1.0	       $17.0
+ 50      POLLO ROSTIZADO	   2.0	       $200.0
+ 55      POLLO ROSTIZADO	   1.0	       $100.0
+ 58      POLLO ROSTIZADO	   2.0	       $200.0
+ 58      PESCUEZITOS	   8.0	       $20.0
+ 58      TORTILLAS	   1.0	       $17.0
+ 60      POLLO ROSTIZADO	   1.0	       $100.0
+ 60      TORTILLAS	   1.0	       $17.0
+ 60      COMIDA ENSALADA RUSA	   1.0	       $15.0
+ 59      POLLO ROSTIZADO	   2.0	       $200.0
+ 61      POLLO ROSTIZADO	   1.0	       $100.0
+ 61      TORTILLAS	   1.0	       $17.0
+ 61      REFRESCO PE	   1.0	       $20.0
+ 61      PESCUEZITOS	   10.0	       $25.0
+ 65      POLLO ROSTIZADO	   1.5	       $150.0
+ 71      POLLO ROSTIZADO	   1.0	       $100.0
+ 71      PESCUEZITOS	   8.0	       $20.0
+ 71      TORTILLAS	   1.0	       $17.0
+ 73      POLLO ROSTIZADO	   2.0	       $200.0
+ 74      POLLO ROSTIZADO	   2.0	       $200.0
+ 77      POLLO ROSTIZADO	   1.0	       $100.0
+ 77      TORTILLAS	   1.0	       $17.0
+ 80      POLLO ROSTIZADO	   1.0	       $100.0
+ 80      SALSAS	   1.0	       $15.0
+ 81      POLLO ROSTIZADO	   1.5	       $150.0
+ 81      TORTILLAS	   1.0	       $17.0
+ 92      POLLO ROSTIZADO	   1.0	       $100.0
+ 93      POLLO ROSTIZADO	   1.0	       $100.0
+ 94      POLLO ROSTIZADO	   0.5	       $50.0
+ 95      POLLO ROSTIZADO	   1.0	       $100.0
+ 96      POLLO ROSTIZADO	   2.0	       $200.0
+ 97      POLLO ROSTIZADO	   1.0	       $100.0
+                              
+ TOTAL A PAGAR:......................$5272.0
+ ===============================================
+                              
+                              
+                              
+                              

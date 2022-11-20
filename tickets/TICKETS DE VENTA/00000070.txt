@@ -1,0 +1,27 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000070           N.CLIENTE:1335
+ FECHA DEL DIA: 2022-10-8    HORA: 18:47:01 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: LESLY MARTINEZ JUAREZ         
+ NUMERO DE TELEFONO: 5548759661         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $115.0   $115.0
+                                        
+ TOTAL A PAGAR:......................$115.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

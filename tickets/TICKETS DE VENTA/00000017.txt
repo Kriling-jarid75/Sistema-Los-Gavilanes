@@ -1,0 +1,22 @@
+                              
+ ===============================================
+               ***TICKET DE VENTA***
+ N.ORDEN:00000017           N.CLIENTE:1
+ FECHA DEL DIA: 2021-7-25    HORA: 18:19:43
+ VENDEDOR: NADIA PACHECO      
+ CLIENTE: kriling jarid       
+ NUMERO DE TELEFONO: 5523537292
+ TIPO ENTREGA: RECOGER EN TIENDA
+ TIPO ORDEN: Orden Presencial 
+ OBSERVACIONES: ghjghjghj     
+ ===============================================
+          ------Productos Adquiridos------
+ ID     NOMBRE     PRECIO    CANTIDAD    TOTAL
+ 1  pollo rostizado  $100.00   2.50  $250.0
+                              
+ TOTAL A COBRAR:........................$250.0
+ ===============================================
+                              
+                              
+                              
+                              

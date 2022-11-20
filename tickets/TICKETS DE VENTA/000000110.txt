@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000110          N.CLIENTE:201
+ FECHA DEL DIA: 2022-1-9     HORA: 17:10:52 PM
+ VENDEDOR: NADIA                        
+ CLIENTE: KARINA GARCIA SANCHEZ         
+ NUMERO DE TELEFONO: 5524063627         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 2.00    POLLO ROSTIZADO      $105.0   $210.0
+ 1.00    TORTILLAS            $17.0    $17.0
+                                        
+ TOTAL A PAGAR:......................$227.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

@@ -1,0 +1,769 @@
+
+
+create database gavilanes2021;
+use Gavilanes2021;
+
+
+create table PERMISO(id_permiso int auto_increment primary key,
+componente varchar(50),
+propiedad varchar(50))engine=innodb;
+
+create table CARGO(id_cargo int auto_increment primary key, 
+nombre varchar(50),
+descripcion varchar(150))engine=innodb;
+
+insert into CARGO values(null,'Gerente','Personal con privilegios de todo el sistema');
+insert into CARGO values(null,'Vendedor', 'Personal solo con privilegio de generar ventas y toma de ordenes');
+insert into CARGO values(null,'Trabajador', 'Personal que solo cumple el privilegio de laborar dentro de la asociasion');
+
+
+create table CARGO_PERMISO(id_cargo_permiso int auto_increment primary key, 
+id_cargo int, 
+foreign key (id_cargo) references CARGO(id_cargo) on delete cascade on update cascade,
+id_permiso int,
+foreign key (id_permiso) references PERMISO(id_permiso) on delete cascade on update cascade)Engine=innodb;
+
+
+create table EMPLEADO(id_empleado int auto_increment primary key, 
+nombre_empleado varchar(50),
+aPaterno varchar(50),
+aMaterno varchar(50),
+fecha_nacimiento date, 
+edad_empleado int(2),
+hora_entrada_sabado time, 
+hora_salida_sabado time,
+hora_entrada_domingo time,
+hora_salida_domingo time,
+genero_empleado ENUM('Hombre', 'Mujer'),
+id_cargo int,
+foreign key(id_cargo)references CARGO(id_cargo)on delete cascade on update cascade)Engine=Innodb;
+
+
+
+insert into empleado values(null, "manuel", "navarrete", "cruz", "1999-11-06", 21, "10:00:00", "21:00:00","10:00:00","21:00:00", "Hombre", 2);
+insert into empleado values(null, "juan", "hernandez", "pedraza", "1999-11-06", 21, "10:00:00", "21:00:00","10:00:00","21:00:00", "Hombre", 1);
+
+
+create table USUARIO(id_usuario int auto_increment primary key,
+id_empleado int,
+id_cargo int,
+foreign key(id_empleado) references EMPLEADO(id_empleado)on delete cascade on update cascade,
+foreign key (id_cargo) references CARGO(id_cargo)on delete cascade on update cascade,
+usuario varchar(50),
+password varchar(50))engine=innodb;
+
+insert into usuario values(null, 1,2, "manuel10", "12345");
+insert into usuario values(null, 2,1, "juan11", "1234");
+
+create table HORARIOS(id_horario int auto_increment primary key, 
+id_empleado int, foreign key(id_empleado) references EMPLEADO(id_empleado) on delete cascade on update cascade, 
+nombreE_Horario varchar(50),
+generoEm varchar(50),
+horaE_Horario_sabado time, 
+horaS_Horario_sabado time,
+horaE_Horario_domingo time, 
+horaS_Horario_domingo time)Engine=Innodb;
+
+
+create table PRODUCTOS(id_producto int auto_increment primary key, 
+nombre_producto varchar(100),
+descripcion varchar(250),
+cantidad float(9,2),
+precio_compra float(9,2),
+precio_venta float(9,2))Engine=Innodb;
+
+insert into PRODUCTOS values(null,"pollo rostizado","pollo del dia",600.0,80.0,100.0);
+insert into PRODUCTOS values(null,"pierna de pavo ahumada","perna de jamon",50.0,80.0,85.0);
+
+
+
+create table ORDENES_LLAMADAS(id_ordenC int auto_increment primary key, 
+numero_orden int,
+nombre_cliente varchar(50),
+localidad varchar(40),
+direccion varchar(600),
+referencia varchar(500),
+tipo_entrega varchar(50),
+telefono bigint, 
+fechaCompra date,
+total float(9,2))Engine=Innodb;
+
+
+create table CLIENTES (id_cliente int auto_increment primary key, 
+nombre_cliente varchar(100),
+localidad varchar(100),
+callePrincipal varchar(100),
+calle1 varchar(100),
+calle2 varchar(100),
+referencia varchar(500),
+numeroTel bigint)Engine=Innodb;
+
+insert into CLIENTES values(null,"kriling jarid","Aguiluchos","gavilanes","cenzontles","aguilas","casa de 2 pisos color azul",5523537292);
+
+
+
+create table detalleOrdenLLamada(id_detalleOrdenLLamada int auto_increment primary key,
+id_ordenC int,foreign key(id_ordenC)references ORDENES_LLAMADAS(id_ordenC) on delete cascade on update cascade,
+nombre_cliente_llamada varchar(100), 
+direccion varchar(100),
+tel bigint,
+id_producto int,foreign key(id_producto)references PRODUCTOS(id_producto) on delete cascade on update cascade,
+nombreP varchar(30),cantidad float(9,2),precioOrden float(9,2),fecha date)Engine=Innodb; 
+
+
+
+create table detalleOrdenLlamada2(id_detalleOrdenLlamada2 int auto_increment primary key,
+id_ordenC int, foreign key(id_ordenC)references ORDENES_LLAMADAS(id_ordenC) on delete cascade on update cascade,
+nombre_cliente_llamada2 varchar(100),
+direccion2 varchar(100),
+tel2 bigint, 
+id_producto int, foreign key(id_producto)references PRODUCTOS(id_producto) on delete cascade on update cascade, 
+nombreP2 varchar(30), cantidad float(9,2), precioOrden float(9,2), fecha date, repartidorC varchar(60))Engine=Innodb;
+
+
+delimiter //
+create procedure sp_Acceder(in user varchar(50), pass varchar(50))
+begin 
+SELECT * FROM USUARIO where usuario=user and password=pass;
+end //
+delimiter ;
+
+
+
+delimiter //
+create procedure sp_Cargos(cargo int(5))
+begin
+select (propiedad) from permiso inner join cargo_permiso on
+permiso.id_permiso=cargo_permiso.id_permiso inner join usuario on cargo_permiso.id_cargo=usuario.id_cargo
+where cargo_permiso.id_cargo=cargo;
+end //   
+delimiter ;
+
+delimiter //
+CREATE PROCEDURE sp_InsertarEmp(in nom varchar(50), pat varchar(50), mat varchar(50), fecha_nac date, edad_emp int(2),horaES time, horaSS time, horaED time, horaSD time,genero ENUM('Hombre','Mujer'),cargo int,u varchar(50), pass varchar(50))
+BEGIN
+declare id_emp int;
+INSERT INTO empleado VALUES(null,nom,pat,mat,fecha_nac,edad_emp,horaES,horaSS,horaED,horaSD,genero,cargo);
+set id_emp = (select max(id_empleado) from empleado);
+INSERT INTO usuario VALUES (null,id_emp,cargo,u,pass);
+END//
+delimiter ; 
+
+
+delimiter //
+create procedure sp_consultar()
+begin
+select id_empleado, nombre_empleado, aPaterno, aMaterno, fecha_nacimiento,edad_empleado, hora_entrada_sabado, hora_salida_sabado,hora_entrada_domingo,hora_salida_domingo,
+genero_empleado from empleado;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_do()
+begin
+select nombre
+from cargo;
+end //
+delimiter ; 
+
+delimiter //
+create procedure sp_EditarEmpleado(in idem int,  nom varchar(50), pat varchar(50), mat varchar(50), fecha_nac date, edad_emp int(2),hora_inicioS time,hora_terminoS time, hora_inicioD time, hora_terminoD time,
+genero ENUM('Hombre','Mujer'),cargo int,usu varchar(50), pass varchar(50))
+begin 
+declare i int;
+set i=(select id_empleado from  empleado where nombre_empleado=nom); 
+update  empleado set
+    nombre_empleado=nom,
+    aPaterno=pat,
+    aMaterno=mat,
+    fecha_nacimiento=fecha_nac ,
+    edad_empleado=edad_emp ,
+    hora_entrada_sabado=hora_inicioS,
+    hora_salida_sabado=hora_terminoS,
+    hora_entrada_domingo=hora_inicioD,
+    hora_entrada_domingo=hora_terminoD,
+    genero_empleado=genero,
+    id_cargo=cargo
+    where id_empleado=idem;
+update usuario set 
+id_cargo=cargo,
+usuario=usu,
+password=pass
+where id_empleado=i;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_dele_emp(in nom varchar(50))
+begin
+delete from empleado where nombre_empleado=nom;
+end //
+delimiter ;
+
+create trigger tr_horario after insert on empleado
+for each row
+insert into horarios(id_horario, id_empleado, nombreE_Horario,generoEm,horaE_Horario_sabado, 
+horaS_Horario_sabado,
+horaE_Horario_domingo, 
+horaS_Horario_domingo)
+
+values(null, new.id_empleado,new.nombre_empleado,new.genero_empleado,new.hora_entrada_sabado, 
+new.hora_salida_sabado,
+new.hora_entrada_domingo,
+new.hora_salida_domingo);
+
+
+
+delimiter //
+create procedure sp_RegistrarProducto(in nom varchar(100),descr varchar(250),cant float(9,2),pre_com float(9,2), pre_ven float(9,2))
+begin
+insert into PRODUCTOS(id_producto, nombre_producto, descripcion, cantidad, precio_compra, precio_venta)
+values(null,nom,descr,cant,pre_com,pre_ven);
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_ConsultarProductosTable()
+begin
+select*From productos;
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_ConsultarProductosN(in n varchar(100))
+begin
+select * from productos 
+where nombre_producto=n;
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_EditarProducto(in idp int, nom varchar(100), descrip varchar(250), canti float(9,2), precompra float(9,2), preventa float(9,2))
+begin 
+update  productos set
+    nombre_producto=nom,
+    descripcion=descrip,
+    cantidad=canti,
+   precio_compra=precompra,
+   precio_venta= preventa
+    where id_producto=idp;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_del_pro(in nom varchar(100))
+begin
+delete from productos where nombre_producto=nom;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_consultarHorario()
+begin
+select * from horarios;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_insertarOrdenCall(in num int ,nom varchar(50),local varchar(40),direc varchar(600),refe varchar(500), tipoE varchar(50), tel bigint,fecha date, totVenta float(9,2))
+begin
+insert into ORDENES_LLAMADAS(id_ordenC,numero_orden,nombre_cliente,localidad,direccion,referencia,tipo_entrega, 
+telefono,fechaCompra,total)
+values(null,num,nom,local,direc,refe,tipoE,tel,fecha,totVenta);
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_consultarOrdenCall()
+begin
+select  max(numero_orden) from ORDENES_LLAMADAS;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_consultarOLlamada2()
+begin 
+select id_detalleOrdenLlamada2, id_ordenC, id_producto, nombreP2, cantidad,precioOrden, fecha, repartidorC from detalleOrdenLlamada2;
+end //
+delimiter ;
+
+delimiter //
+CREATE PROCEDURE sp_insertarDetalleOrdenLlamada(in id_ordenO int,nomCL varchar(100), direCL varchar(100), numCL bigint, id_pro int,nombre varchar(30),canti float(9,2),preO float(9,2),
+fechaO date)
+BEGIN
+INSERT INTO detalleOrdenLlamada VALUES(null,id_ordenO, nomCL, direCL, numCL,id_pro,nombre,canti,preO,fechaO);
+END//
+delimiter ; 
+
+delimiter //
+create procedure sp_consultarIdOrdenLLamada()
+begin
+select  max(id_ordenC) from ORDENES_LLAMADAS;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_consultarIdOrdenLlamada2()
+begin
+select max(id_ordenC) from ORDENES_LLAMADAS;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_consultarClientes(in n varchar(100))
+begin
+select * from clientes where nombre_cliente=n;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_consultarClientesZ(in texto varchar(50))
+BEGIN
+SELECT * FROM clientes WHERE id_cliente LIKE CONCAT('%', texto, '%') or  nombre_cliente LIKE CONCAT('%', texto, '%') 
+or localidad LIKE CONCAT('%', texto, '%') or callePrincipal LIKE CONCAT('%', texto, '%') or calle1 LIKE CONCAT('%', texto, '%') or calle2 LIKE CONCAT('%', texto, '%') 
+or referencia LIKE CONCAT('%', texto, '%') or numeroTel LIKE CONCAT('%', texto, '%');
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_consultarClientesZ2(in texto bigint)
+begin
+select*from clientes where numeroTel LIKE CONCAT('%',texto,'%');
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_consultarClientesTabla()
+begin
+select * from clientes;
+end //
+delimiter ;     
+
+
+delimiter //
+create procedure sp_consultarClientes2000(in texto varchar(50))
+begin
+select id_ordenC, nombre_cliente_llamada2, direccion2, tel2, repartidorC
+from detalleordenllamada2 where  id_ordenC LIKE CONCAT('%',texto,'%') 
+OR  nombre_cliente_llamada2 LIKE CONCAT('%',texto,'%') 
+OR direccion2 LIKE CONCAT('%',texto,'%') OR tel2  LIKE CONCAT('%',texto,'%') 
+OR  repartidorC LIKE CONCAT('%',texto,'%');
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_consultarClientesTodos()
+begin
+select id_ordenC, nombre_cliente_llamada2, direccion2, tel2   from detalleordenllamada2;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_insertarCliente(in nom varchar(100),locali varchar(100),calleP varchar(100),c1 varchar(100), c2 varchar(100), refe varchar(100), num bigint)
+begin
+insert into CLIENTES(id_cliente, nombre_cliente, localidad, callePrincipal, calle1, calle2, referencia, numeroTel)
+values(null,nom,locali,calleP,c1,c2,refe,num);
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_ConsultarProductosTable2()
+begin
+select   id_producto, nombre_producto, cantidad, precio_venta from productos;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_consultarFechas2(in fechaR date)
+BEGIN
+SELECT id_detalleOrdenLlamada2, id_ordenC, id_producto, nombreP2, cantidad, precioOrden, fecha, repartidorC FROM detalleordenllamada2 WHERE fecha = fechaR; 
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_consultarRepas2(in texto varchar(60))
+begin
+select id_detalleOrdenLlamada2, id_ordenC, id_producto, nombreP2, cantidad, precioOrden, fecha, repartidorC from detalleordenllamada2 
+where repartidorC LIKE CONCAT('%',texto,'%');
+end //
+delimiter ;
+
+
+delimiter //
+create PROCEDURE sp_ActualizarStock(in id_P int, nuevaCantidad float(9,2))
+begin
+update  productos set
+    id_producto=id_P, cantidad = nuevaCantidad
+    where id_producto=id_P;
+end //
+delimiter ;
+
+
+delimiter //
+create PROCEDURE sp_ActualizarStock2(in id_P int, nuevaCantidad float)
+begin
+update  productos set
+    id_producto=id_P, cantidad = nuevaCantidad
+    where id_producto=id_P;
+end //
+delimiter ;
+
+
+
+
+
+
+
+
+
+
+
+
+delimiter //
+create procedure sp_consultarProductosZ(in texto varchar(100))
+BEGIN
+SELECT * FROM productos WHERE id_producto LIKE CONCAT('%', texto, '%')
+or nombre_producto LIKE CONCAT('%', texto, '%')
+or descripcion LIKE CONCAT('%', texto, '%')
+or cantidad LIKE CONCAT('%', texto, '%')
+or precio_compra LIKE CONCAT('%', texto, '%')
+or precio_venta LIKE CONCAT('%', texto, '%');
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_filtroIDN(in texto varchar(10))
+BEGIN
+SELECT * FROM clientes WHERE id_cliente LIKE CONCAT('%', texto,'%');
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_ConsultarEmpleadosZ(in n varchar(50))
+begin
+select * from usuario inner join empleado on usuario.id_empleado=empleado.id_empleado 
+where nombre_empleado   LIKE CONCAT('%', n , '%')
+or aPaterno   LIKE CONCAT('%', n , '%')
+or aMaterno   LIKE CONCAT('%', n , '%')
+or fecha_nacimiento   LIKE CONCAT('%', n , '%')
+or edad_empleado   LIKE CONCAT('%', n , '%')
+or hora_entrada_sabado   LIKE CONCAT('%', n , '%')
+or hora_salida_sabado  LIKE CONCAT('%', n , '%')
+or hora_entrada_domingo  LIKE CONCAT('%', n , '%')
+or hora_salida_domingo  LIKE CONCAT('%', n , '%');
+end //
+delimiter ;
+
+
+
+
+
+delimiter //
+create procedure sp_ConsultarEmpleados()
+begin
+select  * from usuario inner join  empleado on usuario.id_empleado=empleado.id_empleado;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_ActualizarCliente(in idC int, nom varchar(100), local varchar(250), calleOne varchar(50),  calleTwo varchar(50),  calleThree varchar(50),referenciaHome varchar(250),numeroCell bigint(10))
+begin 
+update  clientes set
+    nombre_cliente=nom,
+    localidad=local,
+    callePrincipal=calleOne,
+    calle1=calleTwo,
+    calle2=calleThree,
+   referencia=referenciaHome,
+   numeroTel= numeroCell
+    where id_cliente=idC;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_LlenarCBOrden()
+begin 
+select distinct(id_ordenC) from detalleOrdenLlamada;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_LlenarCBOrden2()
+begin 
+select distinct(nombre_cliente_llamada) from detalleOrdenLlamada;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_LlenarCBOrden5()
+begin 
+select distinct(repartidorC) from detalleOrdenLlamada2;
+end //
+delimiter ;      
+
+
+delimiter //
+create procedure sp_LlenarCBOrden6()
+begin 
+select distinct(nombre_cliente_llamada2) from detalleOrdenLlamada2;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_ARepallamada(in n int)
+begin
+select distinct(id_ordenC), nombre_cliente_llamada, direccion, tel
+from detalleordenllamada where id_ordenC=n;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_ARepaCllamada(in REPAR varchar(50))
+begin
+select distinct(id_ordenC), nombre_cliente_llamada2, direccion2,
+ tel2, repartidorC
+from detalleordenllamada2 where repartidorC = REPAR;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_consultarOLlamada(in n int)
+begin
+select id_ordenC, id_producto, nombreP,cantidad,precioOrden,fecha 
+from detalleOrdenLLamada where id_ordenC=n;
+end //
+delimiter ; 
+
+
+
+
+delimiter //
+create procedure sp_consultarOCLlamada(in repartidores varchar(50))
+begin
+select id_ordenC, id_producto, nombreP2,cantidad,precioOrden,
+fecha from detalleordenllamada2 where repartidorC = repartidores;
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_OCliente(in n varchar (100))
+begin
+select distinct(id_ordenC), nombre_cliente_llamada, direccion, tel
+from detalleordenllamada where nombre_cliente_llamada=n;
+end //
+delimiter ;
+
+
+
+delimiter //
+create procedure sp_OCCliente(in n varchar (100))
+begin
+select distinct(id_ordenC), nombre_cliente_llamada2, direccion2, tel2, repartidorC
+from detalleordenllamada2 where nombre_cliente_llamada2=n;
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_consultarOCClienteNew(in n varchar (100))
+begin
+select id_ordenC, id_producto, nombreP,cantidad,precioOrden,fecha from detalleOrdenLLamada where nombre_cliente_llamada=n;
+end //
+delimiter ; 
+
+
+
+delimiter //
+create procedure sp_insertarDL2(in idop int, ncp varchar(100), d2 varchar(100), telp2 bigint, idpro int, npro varchar(50), cantip int(3), preOP float(9,2), fechaN date, rp varchar(60))
+begin
+insert into detalleOrdenLlamada2 values(null,idop,ncp,d2,telp2,idpro,npro,cantip,preOP,fechaN,rp);
+end //
+delimiter ;
+
+
+
+
+
+CREATE TABLE REPARTIDORES(id_repartidor int primary key auto_increment, nombreRepartidor varchar(30), apellidoPat varchar(30), apellidoMat varchar(30))engine=innodb;
+
+
+delimiter //
+create procedure sp_RegistrarRepartidor(in nombreRepa varchar(30), apellidoUno varchar(30), apellidoDos varchar(30))
+begin
+insert into REPARTIDORES values(null,nombreRepa, apellidoUno, apellidoDos);
+end //
+delimiter ;
+
+
+
+delimiter //
+create procedure sp_consultarRepartidores()
+begin
+select id_repartidor, nombreRepartidor, apellidoPat, apellidoMat from REPARTIDORES;
+end //
+delimiter ;
+
+
+
+delimiter //
+create procedure sp_EditarRepartidor(in idR int, nom varchar(100),apellidoPatRep varchar(30), apellidoMatRep varchar(30))
+begin 
+update  REPARTIDORES set
+    nombreRepartidor=nom,
+    apellidoPat=apellidoPatRep,
+    apellidoMat=apellidoMatRep
+    where id_repartidor=idR;
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_eliminarRepartidor(in nom varchar(100))
+begin
+delete from REPARTIDORES where nombreRepartidor=nom;
+end //
+delimiter ;
+
+
+CREATE TABLE LOCALIDADES(id_localidad int primary key auto_increment, nombreLocalidad varchar(100))engine=innodb;
+
+
+delimiter //
+create procedure sp_RegistrarLocalidad(in nombrelocali varchar(100))
+begin
+insert into LOCALIDADES values(null,nombrelocali);
+end //
+delimiter ;
+
+
+
+delimiter //
+create procedure sp_consultarLocalidades()
+begin
+select * from LOCALIDADES;
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_EditarLocalidad(in idL int, nom varchar(100))
+begin 
+update  LOCALIDADES set
+    nombreLocalidad=nom
+    where id_localidad=idL;
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_eliminarLocalidad(in nom varchar(100))
+begin
+delete from LOCALIDADES where nombreLocalidad=nom;
+end //
+delimiter ;
+
+
+
+
+delimiter //
+create procedure sp_ConsultarStoock(in n varchar(50))
+begin
+select id_producto, nombre_producto, cantidad, 
+precio_compra, precio_venta from PRODUCTOS where nombre_producto LIKE CONCAT('%', n , '%');
+end //
+delimiter ;
+
+
+
+delimiter //
+create procedure sp_consultarRepartidoresTabla()
+begin
+select nombreRepartidor from repartidores;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_LlenarCBOrdenLocalidades()
+begin
+select nombreLocalidad from localidades;
+end //
+delimiter ;
+
+
+
+delimiter //
+create procedure sp_cancelarProducto(in nOrden int)
+begin
+delete from productos
+ where id_producto=nOrden;
+end //
+delimiter ;
+
+delimiter //
+create procedure sp_cancelarOrdenLLamada(in produc int)
+begin
+delete from orden_llamadas where id_ordenC=produc;
+end //
+delimiter ;
+
+
+
+delimiter //
+create procedure sp_cancelarDetalleOrden( OrdenPrin int)
+begin
+
+
+delete from detalleordenllamada2 
+where id_ordenC=OrdenPrin;
+
+end //
+delimiter ;
+
+
+
+delimiter //
+create procedure sp_ConsultaDeUsuario()
+begin
+select usuario from USUARIO;
+end //
+delimiter ;
+
+
+delimiter //
+create procedure sp_eliminarTodasLasOrdenes()
+begin
+
+delete from ORDENES_LLAMADAS;
+end //
+delimiter ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

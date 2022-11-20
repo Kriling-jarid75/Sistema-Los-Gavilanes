@@ -1,0 +1,60 @@
+================================================                                          
+          TICKET DE REPARTIDOR                                                            
+ N.ORDEN: 6                                                                               
+ FECHA DEL DIA: 2021-06-17                                                                
+ VENDEDOR: NADIA PACHECO                                                                  
+ CLIENTE: omar                                                                            
+ DIRECCION: y, i y d                                                                      
+ NUMERO DE TEL: 5545874512                                                                
+ OBSERVACIONES: aa                                                                        
+ REPARTIDOR: juan                                                                         
+================================================                                          
+  **********PRODUCTOS ASIGNADOS**********                                                 
+                                                                                          
+ ID     NOMBRE     CANTIDAD    PRECIO                                                     
+ 2          pierna de pavo ahumada          1.00          $85.00                          
+                                                                                          
+                                                                                          
+ TOTAL VENTA:..........................$85.0                                              
+------------------------------------------------                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          

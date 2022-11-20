@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000056           N.CLIENTE:689
+ FECHA DEL DIA: 2022-11-13   HORA: 17:04:05 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: YADIRA SANCHEZ                
+ NUMERO DE TELEFONO: 5577195411         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES: DOS DE COL              
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $115.0   $115.0
+ 1.00    CHILES EN VINAGRE    $17.0    $17.0
+                                        
+ TOTAL A PAGAR:......................$132.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

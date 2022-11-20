@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000126          N.CLIENTE:429
+ FECHA DEL DIA: 2021-11-21   HORA: 20:27:09 PM
+ VENDEDOR: NADIA                        
+ CLIENTE: BEATRIZ JUAREZ OJEDA          
+ NUMERO DE TELEFONO: 0                  
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $100.0   $100.0
+ 1.00    COCA COLA            $40.0    $40.0
+                                        
+ TOTAL A PAGAR:......................$140.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

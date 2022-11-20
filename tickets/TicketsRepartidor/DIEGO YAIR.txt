@@ -1,0 +1,19 @@
+                              
+ ===============================================
+            ***TICKET DE MIS VENTAS ***
+ FECHA DEL DIA: 28:10:2021   HORA: 17:52:57
+ REPARTIDOR: DIEGO YAIR       
+ Le informamos que el repartidor: DIEGO YAIR usted debe de pagar un total de: $305.0
+ OBSERVACIONES:               
+ ===============================================
+            ------MIS ORDENES------
+ ID_O   NOMBRE_P          CANTIDAD    $PRECIO$
+ 2      PIERNA DE PAVO       3.0      $255.0
+ 3      PESCUECITOS       20.0      $50.0
+                              
+ TOTAL A PAGAR:......................$305.0
+ ===============================================
+                              
+                              
+                              
+                              

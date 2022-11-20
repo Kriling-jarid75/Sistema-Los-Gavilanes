@@ -1,0 +1,27 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000078           N.CLIENTE:251
+ FECHA DEL DIA: 2022-8-20    HORA: 16:18:15 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: MARTINA MARTINEZ              
+ NUMERO DE TELEFONO: 5586182612         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES: LLEVAR CAMBIO DE 500    
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $115.0   $115.0
+                                        
+ TOTAL A PAGAR:......................$115.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

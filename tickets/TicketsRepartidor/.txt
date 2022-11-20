@@ -1,0 +1,17 @@
+                              
+ ===============================================
+               ***TICKET DE VENTAS ***
+ FECHA DEL DIA: 29:9:2021    HORA: 21:16:9
+ REPARTIDOR:                  
+ Le informamos el repartidor  usted debe de pagar un total de: $
+ OBSERVACIONES:               
+ ===============================================
+            ------MIS ORDENES------
+ ID_O     NOMBRE_P      CANTIDAD       $PRECIO$
+                              
+ TOTAL A PAGAR:......................$
+ ===============================================
+                              
+                              
+                              
+                              

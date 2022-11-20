@@ -1,0 +1,27 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000096           N.CLIENTE:945
+ FECHA DEL DIA: 2022-8-20    HORA: 18:05:31 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: JUAN SEVILLA                  
+ NUMERO DE TELEFONO: 5571799120         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $115.0   $115.0
+                                        
+ TOTAL A PAGAR:......................$115.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

@@ -1,0 +1,25 @@
+                                        
+ ===============================================
+               ***TICKET DE VENTA***    
+ N.ORDEN:00000020           N.CLIENTE:2 
+ FECHA DEL DIA: 2021-10-6    HORA: 19:57:13
+ VENDEDOR: manuel10                     
+ CLIENTE: BERTHA RAMIREZ RAMIREZ        
+ LOCALIDAD: LOS AGUILUCHOS              
+ DIRECCION: ALONDRAS,ESQUINA  y GARZAS  
+ REFERENCIA: CASA GRIS DONDE ESTÁ LA TIENDITA CON LOGOTIPOS DE JARRITO
+ NUMERO DE TELEFONO: 5516994056         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ TIPO ORDEN: Seleccione                 
+ OBSERVACIONES: dsfsdfsdf               
+ ===============================================
+          ------Productos Adquiridos------
+ ID NOMBRE           PRECIO    CANTIDAD    TOTAL
+           1         $     100.0        
+                                        
+ TOTAL A COBRAR:.........................$100.0
+ ===============================================
+                                        
+                                        
+                                        
+                                        

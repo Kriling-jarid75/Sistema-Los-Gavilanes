@@ -1,0 +1,29 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000104          N.CLIENTE:145
+ FECHA DEL DIA: 2022-3-27    HORA: 17:03:16 PM
+ VENDEDOR: BLANCA                       
+ CLIENTE: VICTOR LUNA                   
+ NUMERO DE TELEFONO: 5537576963         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES: VERDE                   
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $115.0   $115.0
+ 1.00    SALSAS               $15.0    $15.0
+ 1.00    PIERNA DE PAVO       $95.0    $95.0
+                                        
+ TOTAL A PAGAR:......................$225.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

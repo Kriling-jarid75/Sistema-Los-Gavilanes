@@ -1,0 +1,29 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000139          N.CLIENTE:1162
+ FECHA DEL DIA: 2022-1-2     HORA: 14:42:50 PM
+ VENDEDOR: NADIA                        
+ CLIENTE: PILAR BASTIDA                 
+ NUMERO DE TELEFONO: 0                  
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES: SALSA DE GUACAMOLE      
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 4.00    POLLO ROSTIZADO      $105.0   $420.0
+ 2.00    TORTILLAS            $17.0    $34.0
+ 2.00    SALSAS               $15.0    $30.0
+                                        
+ TOTAL A PAGAR:......................$484.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

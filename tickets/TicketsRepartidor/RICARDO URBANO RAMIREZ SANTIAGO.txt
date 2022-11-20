@@ -1,0 +1,58 @@
+                              
+ ===============================================
+            ***TICKET DE MIS VENTAS ***
+ FECHA DEL DIA: 11:12:2021   HORA: 07:09:19 PM
+ REPARTIDOR: RICARDO URBANO RAMIREZ SANTIAGO
+ Le informamos que el repartidor: 
+ RICARDO URBANO RAMIREZ SANTIAGO
+ usted debe de pagar un total de
+ OBSERVACIONES:               
+ ===============================================
+            ------MIS ORDENES------
+ ID_O   NOMBRE_P          CANTIDAD    $PRECIO$
+ 13      POLLO ROSTIZADO	   1.0	       $100.0
+ 13      TORTILLAS	   1.0	       $17.0
+ 19      POLLO ROSTIZADO	   2.0	       $200.0
+ 21      POLLO ROSTIZADO	   1.0	       $100.0
+ 21      TORTILLAS	   1.0	       $17.0
+ 29      POLLO ROSTIZADO	   1.0	       $100.0
+ 30      POLLO ROSTIZADO	   1.5	       $150.0
+ 31      POLLO ROSTIZADO	   2.0	       $200.0
+ 31      TORTILLAS	   1.0	       $17.0
+ 32      POLLO ROSTIZADO	   1.0	       $100.0
+ 34      POLLO ROSTIZADO	   1.0	       $100.0
+ 34      COSTILLA ADOBADA	   1.0	       $100.0
+ 36      POLLO ROSTIZADO	   1.0	       $100.0
+ 36      TORTILLAS	   1.0	       $17.0
+ 37      POLLO ROSTIZADO	   1.0	       $100.0
+ 37      COSTILLA ADOBADA	   1.0	       $100.0
+ 37      TORTILLAS	   1.0	       $17.0
+ 37      PAPAS TOTIS	   1.0	       $35.0
+ 37      REFRESCO SEVEN UP	   1.0	       $25.0
+ 39      POLLO ROSTIZADO	   1.0	       $100.0
+ 54      POLLO ROSTIZADO	   1.0	       $100.0
+ 54      TORTILLAS	   1.0	       $17.0
+ 62      POLLO ROSTIZADO	   1.0	       $100.0
+ 63      POLLO ROSTIZADO	   2.0	       $200.0
+ 63      TORTILLAS	   1.0	       $17.0
+ 64      POLLO ROSTIZADO	   2.0	       $200.0
+ 64      SALSA EXOTICA	   1.0	       $20.0
+ 70      POLLO ROSTIZADO	   2.0	       $200.0
+ 75      POLLO ROSTIZADO	   1.0	       $100.0
+ 75      TORTILLAS	   1.0	       $17.0
+ 78      POLLO ROSTIZADO	   1.0	       $100.0
+ 83      POLLO ROSTIZADO	   1.0	       $100.0
+ 83      TORTILLAS	   1.0	       $17.0
+ 86      POLLO ROSTIZADO	   1.0	       $100.0
+ 88      POLLO ROSTIZADO	   1.0	       $100.0
+ 88      COSTILLA ADOBADA	   1.0	       $100.0
+ 89      POLLO ROSTIZADO	   1.0	       $100.0
+ 91      POLLO ROSTIZADO	   2.0	       $200.0
+ 68      POLLO ROSTIZADO	   2.0	       $200.0
+                              
+ TOTAL A PAGAR:......................$3683.0
+ ===============================================
+                              
+                              
+                              
+                              

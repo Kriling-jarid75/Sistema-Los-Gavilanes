@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000112          N.CLIENTE:60
+ FECHA DEL DIA: 2021-11-21   HORA: 16:39:31 PM
+ VENDEDOR: NADIA                        
+ CLIENTE: OLIVIA PASARAN                
+ NUMERO DE TELEFONO: 5626562695         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES: SEPARADOS
+MÁS COL       
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.50    POLLO ROSTIZADO      $100.0   $150.0
+                                        
+ TOTAL A PAGAR:......................$150.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

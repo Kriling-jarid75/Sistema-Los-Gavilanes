@@ -1,0 +1,29 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000097           N.CLIENTE:1870
+ FECHA DEL DIA: 2022-3-27    HORA: 16:05:57 PM
+ VENDEDOR: BLANCA                       
+ CLIENTE: OMAR ALONSO ORTIZ             
+ NUMERO DE TELEFONO: 5529670761         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $115.0   $115.0
+ 1.00    COMIDA ENSALADA RUSA $20.0    $20.0
+ 1.00    TORTILLAS            $19.0    $19.0
+                                        
+ TOTAL A PAGAR:......................$154.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

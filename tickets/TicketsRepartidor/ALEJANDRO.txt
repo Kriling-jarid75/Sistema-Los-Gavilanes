@@ -1,0 +1,23 @@
+                              
+ ===============================================
+            ***TICKET DE MIS VENTAS ***
+ FECHA DEL DIA: 6:11:2021    HORA: 9:55:23
+ REPARTIDOR: ALEJANDRO        
+ Le informamos que el repartidor: 
+ ALEJANDRO
+ usted debe de pagar un total de: $800.0
+ OBSERVACIONES:               
+ ===============================================
+            ------MIS ORDENES------
+ ID_O   NOMBRE_P          CANTIDAD    $PRECIO$
+ 1      COSTILLA	   1.5	       $150.0
+ 1      POLLO ROSTIZADO	   2.5	       $250.0
+ 1      COSTILLA	   1.5	       $150.0
+ 1      POLLO ROSTIZADO	   2.5	       $250.0
+                              
+ TOTAL A PAGAR:......................$800.0
+ ===============================================
+                              
+                              
+                              
+                              

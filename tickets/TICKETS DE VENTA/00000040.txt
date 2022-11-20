@@ -1,0 +1,30 @@
+                              
+ ===============================================
+               ***TICKET DE COMPRA***
+ N.ORDEN:00000040           N.CLIENTE:107
+ FECHA DEL DIA: 2021-10-13   HORA: 19:42:34
+ VENDEDOR: NADIA              
+ CLIENTE: LUIS GIOVANI CERON VILLA
+ NUMERO DE TELEFONO: 5581535015
+ TIPO ENTREGA: LLEVAR A DOMICILIO
+ OBSERVACIONES: DOS COLES     
+ ===============================================
+     ------Productos Adquiridos------
+ ID     NOMBRE     PRECIO    CANTIDAD    TOTAL
+ 1  POLLO ROSTIZADO  $100.0    1.00      $100.0
+ 3  COSTILLA  $100.0    1.00      $100.0
+ 14  ENSALADAS  $15.0    1.00      $15.0
+ 16  COCA  TRES LITROS  $40.0    1.00      $40.0
+                              
+ TOTAL A PAGAR:......................$255.0
+ ===============================================
+          !Gracias por su preferencia!
+                  !LOS GAVILANES!
+          !GRACIAS POR LA PROPINA :D !
+        **No somos los mejores del mundo,
+               pero si del rumbo**
+ Pedidos al: 5549115290 o 5549117979
+ ==============================================
+                              
+                              
+                              

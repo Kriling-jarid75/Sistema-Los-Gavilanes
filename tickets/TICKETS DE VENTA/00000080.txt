@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000080           N.CLIENTE:1805
+ FECHA DEL DIA: 2022-8-20    HORA: 16:28:33 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: ABIGAIL CUEVAS MARTINES       
+ NUMERO DE TELEFONO: 5540472647         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.50    POLLO ROSTIZADO      $115.0   $172.5
+ 1.00    TORTILLAS            $19.0    $19.0
+                                        
+ TOTAL A PAGAR:......................$191.5
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

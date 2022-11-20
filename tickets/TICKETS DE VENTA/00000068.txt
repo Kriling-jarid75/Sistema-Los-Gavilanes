@@ -1,0 +1,27 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000068           N.CLIENTE:247
+ FECHA DEL DIA: 2022-10-8    HORA: 18:30:43 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: ARACELI CRUZ                  
+ NUMERO DE TELEFONO: 5562202750         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 2.00    POLLO ROSTIZADO      $115.0   $230.0
+                                        
+ TOTAL A PAGAR:......................$230.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

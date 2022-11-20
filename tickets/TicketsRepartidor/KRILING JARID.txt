@@ -1,0 +1,26 @@
+                              
+ ===============================================
+               ***TICKET DE VENTAS ***
+ FECHA DEL DIA: 17:8:2021    HORA: 17:39:49
+ REPARTIDOR: KRILING JARID    
+ Le informamos el repartidor KRILING JARID usted debe de pagar un total de: $846.5
+ OBSERVACIONES:               
+ ===============================================
+            ------MIS ORDENES------
+ ID_O   NOMBRE_P    CANTIDAD    PRECIO
+ 1  pollo rostizado  2.50 $250.00
+ 6  pollo rostizado  1.00 $100.00
+ 6  pierna de pavo ahumada  1.00 $85.00
+ 6  papas  1.00 $84.00        
+ 3  pollo rostizado  2.00 $200.00
+ 2  pierna de pavo ahumada  1.50 $127.50
+                              
+ TOTAL A PAGAR:......................$846.5
+ ===============================================
+                              
+                              
+                              
+                              
+                              
+                              
+                              

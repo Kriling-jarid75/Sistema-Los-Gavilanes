@@ -1,0 +1,60 @@
+================================================                                          
+          TICKET DE REPARTIDOR                                                            
+ N.ORDEN: 2                                                                               
+ FECHA DEL DIA: 2021-06-09                                                                
+ VENDEDOR: NADIA PACHECO                                                                  
+ CLIENTE: kriling jarid                                                                   
+ DIRECCION: gavilanes, cenzontles y aguilas                                               
+ NUMERO DE TEL: 5523537292                                                                
+ OBSERVACIONES:                                                                           
+ REPARTIDOR: kriling jarid                                                                
+================================================                                          
+  **********PRODUCTOS ASIGNADOS**********                                                 
+                                                                                          
+ ID     NOMBRE     CANTIDAD    PRECIO                                                     
+ 1          pollo rostizado          1.50          $150.00                                
+                                                                                          
+                                                                                          
+ TOTAL VENTA:..........................$150.0                                             
+------------------------------------------------                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          

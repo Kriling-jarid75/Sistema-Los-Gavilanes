@@ -1,0 +1,27 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000158          N.CLIENTE:1176
+ FECHA DEL DIA: 2022-1-2     HORA: 17:06:21 PM
+ VENDEDOR: NADIA                        
+ CLIENTE: ANAEL RAMIREZ                 
+ NUMERO DE TELEFONO: 5582417043         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 2.00    POLLO ROSTIZADO      $105.0   $210.0
+                                        
+ TOTAL A PAGAR:......................$210.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

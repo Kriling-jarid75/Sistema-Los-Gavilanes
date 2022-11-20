@@ -1,0 +1,29 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000071           N.CLIENTE:2799
+ FECHA DEL DIA: 2022-10-8    HORA: 19:02:50 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: CESAR MAYA                    
+ NUMERO DE TELEFONO: 5546477853         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.50    POLLO ROSTIZADO      $115.0   $172.5
+ 1.00    TORTILLAS            $20.0    $20.0
+ 1.00    COMIDA CODITO        $20.0    $20.0
+                                        
+ TOTAL A PAGAR:......................$212.5
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

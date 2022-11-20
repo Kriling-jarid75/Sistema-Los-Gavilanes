@@ -1,0 +1,29 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000085           N.CLIENTE:679
+ FECHA DEL DIA: 2022-3-27    HORA: 15:16:02 PM
+ VENDEDOR: BLANCA                       
+ CLIENTE: BRENDA RIVERO                 
+ NUMERO DE TELEFONO: 5524323195         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 3.00    POLLO ROSTIZADO      $115.0   $345.0
+ 2.00    PAPAS TOTIS          $40.0    $80.0
+ 1.00    TORTILLAS            $19.0    $19.0
+                                        
+ TOTAL A PAGAR:......................$444.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

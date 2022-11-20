@@ -1,0 +1,29 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000125          N.CLIENTE:558
+ FECHA DEL DIA: 2021-11-21   HORA: 20:24:40 PM
+ VENDEDOR: NADIA                        
+ CLIENTE: LETICIA BOGARIN               
+ NUMERO DE TELEFONO: 5538256074         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $100.0   $100.0
+ 1.00    PIERNA DE PAVO       $85.0    $85.0
+ 1.00    PAPAS TOTIS          $35.0    $35.0
+                                        
+ TOTAL A PAGAR:......................$220.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

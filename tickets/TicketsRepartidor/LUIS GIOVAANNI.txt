@@ -1,0 +1,19 @@
+                              
+ ===============================================
+            ***TICKET DE MIS VENTAS ***
+ FECHA DEL DIA: 28:10:2021   HORA: 20:14:33
+ REPARTIDOR: LUIS GIOVAANNI   
+ Le informamos que el repartidor: LUIS GIOVAANNI usted debe de pagar un total de: $315.0
+ OBSERVACIONES:               
+ ===============================================
+            ------MIS ORDENES------
+ ID_O   NOMBRE_P          CANTIDAD    $PRECIO$
+                              
+                              
+ 4      SALSA GORMET       3.0      $60.0
+ TOTAL A PAGAR:......................$315.0
+ ===============================================
+                              
+                              
+                              
+                              

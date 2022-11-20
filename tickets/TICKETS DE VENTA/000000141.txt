@@ -1,0 +1,30 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000141          N.CLIENTE:1165
+ FECHA DEL DIA: 2022-1-2     HORA: 15:07:08 PM
+ VENDEDOR: NADIA                        
+ CLIENTE: OSVALDO GARCIA                
+ NUMERO DE TELEFONO: 5626694132         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES: 3 POLLOS SEPARADOS
+Y EL OTRO MEDIO Y MEDIO SEPARADOS
+
+
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 4.00    POLLO ROSTIZADO      $105.0   $420.0
+                                        
+ TOTAL A PAGAR:......................$420.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

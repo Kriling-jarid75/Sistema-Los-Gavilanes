@@ -1,0 +1,27 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000079           N.CLIENTE:1862
+ FECHA DEL DIA: 2022-3-27    HORA: 14:45:14 PM
+ VENDEDOR: BLANCA                       
+ CLIENTE: EMILIO REYES                  
+ NUMERO DE TELEFONO: 5610556548         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 3.00    POLLO ROSTIZADO      $115.0   $345.0
+                                        
+ TOTAL A PAGAR:......................$345.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

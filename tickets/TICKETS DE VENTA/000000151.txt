@@ -1,0 +1,27 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000151          N.CLIENTE:643
+ FECHA DEL DIA: 2021-11-27   HORA: 15:20:12 PM
+ VENDEDOR: BETSABE                      
+ CLIENTE: DULCE MARTINEZ                
+ NUMERO DE TELEFONO: 5547977350         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $100.0   $100.0
+                                        
+ TOTAL A PAGAR:......................$100.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

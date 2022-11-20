@@ -1,0 +1,27 @@
+                              
+ ===============================================
+               ***TICKET DE COMPRA***
+ N.ORDEN:0000002            N.CLIENTE:3
+ FECHA DEL DIA: 2021-10-20   HORA: 17:53:32
+ VENDEDOR: NADIA              
+ CLIENTE: ALICIA HERNANDEZ CERVANTES
+ NUMERO DE TELEFONO: 5549115945
+ TIPO ENTREGA: LLEVAR A DOMICILIO
+ OBSERVACIONES:               
+ ===============================================
+     ------Productos Adquiridos------
+ ID     NOMBRE     PRECIO    CANTIDAD    TOTAL
+ 2  PIERNA DE PAVO  $85.0    3.00      $255.0
+                              
+ TOTAL A PAGAR:......................$255.0
+ ===============================================
+          !Gracias por su preferencia!
+                  !LOS GAVILANES!
+          !GRACIAS POR LA PROPINA :D !
+        **No somos los mejores del mundo,
+               pero si del rumbo**
+ Pedidos al: 5549115290 o 5549117979
+ ==============================================
+                              
+                              
+                              

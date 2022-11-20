@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000181          N.CLIENTE:291
+ FECHA DEL DIA: 2021-11-27   HORA: 16:54:55 PM
+ VENDEDOR: BETSABE                      
+ CLIENTE: SOFIA CASTILLO                
+ NUMERO DE TELEFONO: 0                  
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    COSTILLA ADOBADA     $100.0   $100.0
+ 0.50    POLLO ROSTIZADO      $100.0   $50.0
+                                        
+ TOTAL A PAGAR:......................$150.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

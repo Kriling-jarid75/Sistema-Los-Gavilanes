@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000076           N.CLIENTE:1968
+ FECHA DEL DIA: 2022-8-20    HORA: 16:10:01 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: MARTIN PEREA                  
+ NUMERO DE TELEFONO: 5581937758         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $115.0   $115.0
+ 1.00    PIERNA DE PAVO       $95.0    $95.0
+                                        
+ TOTAL A PAGAR:......................$210.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

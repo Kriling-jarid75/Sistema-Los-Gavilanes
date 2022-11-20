@@ -1,0 +1,27 @@
+                              
+ ===============================================
+               ***TICKET DE COMPRA***
+ N.ORDEN:0000006            N.CLIENTE:1
+ FECHA DEL DIA: 2021-10-6    HORA: 17:41:54
+ VENDEDOR: manuel10           
+ CLIENTE: kriling jarid       
+ NUMERO DE TELEFONO: 55235376567
+ TIPO ENTREGA: LLEVAR A DOMICILIO
+ OBSERVACIONES: dfgdfgdfg     
+ ===============================================
+     ------Productos Adquiridos------
+ ID     NOMBRE     PRECIO    CANTIDAD    TOTAL
+ 9 SALSAS $15.0 1.00 $15.0    
+                              
+ TOTAL A PAGAR:......................$15.0
+ ===============================================
+          !Gracias por su preferencia!
+                  !LOS GAVILANES!
+          !GRACIAS POR LA PROPINA :D !
+        **No somos los mejores del mundo,
+               pero si del rumbo**
+ Pedidos al: 5549115290 o 5549117979
+ ==============================================
+                              
+                              
+                              

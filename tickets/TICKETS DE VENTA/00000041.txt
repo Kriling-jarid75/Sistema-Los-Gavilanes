@@ -1,0 +1,27 @@
+                              
+ ===============================================
+               ***TICKET DE COMPRA***
+ N.ORDEN:00000041           N.CLIENTE:50
+ FECHA DEL DIA: 2021-10-13   HORA: 19:49:2
+ VENDEDOR: NADIA              
+ CLIENTE: AIDE MARTINEZ       
+ NUMERO DE TELEFONO: 0        
+ TIPO ENTREGA: LLEVAR A DOMICILIO
+ OBSERVACIONES:               
+ ===============================================
+     ------Productos Adquiridos------
+ ID     NOMBRE     PRECIO    CANTIDAD    TOTAL
+ 7  PAPAS JIRETH  $25.0    4.00      $100.0
+                              
+ TOTAL A PAGAR:......................$100.0
+ ===============================================
+          !Gracias por su preferencia!
+                  !LOS GAVILANES!
+          !GRACIAS POR LA PROPINA :D !
+        **No somos los mejores del mundo,
+               pero si del rumbo**
+ Pedidos al: 5549115290 o 5549117979
+ ==============================================
+                              
+                              
+                              

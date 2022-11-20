@@ -1,0 +1,27 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000168          N.CLIENTE:351
+ FECHA DEL DIA: 2021-11-27   HORA: 16:06:35 PM
+ VENDEDOR: BETSABE                      
+ CLIENTE: MARIA SOLARES                 
+ NUMERO DE TELEFONO: 0                  
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.50    POLLO ROSTIZADO      $100.0   $150.0
+                                        
+ TOTAL A PAGAR:......................$150.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

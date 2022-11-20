@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000066           N.CLIENTE:429
+ FECHA DEL DIA: 2022-11-12   HORA: 18:03:32 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: BEATRIZ JUAREZ OJEDA          
+ NUMERO DE TELEFONO: 0                  
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    POLLO ROSTIZADO      $115.0   $115.0
+ 1.00    TORTILLAS            $20.0    $20.0
+                                        
+ TOTAL A PAGAR:......................$135.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

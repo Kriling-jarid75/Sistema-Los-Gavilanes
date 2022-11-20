@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000061           N.CLIENTE:2931
+ FECHA DEL DIA: 2022-11-13   HORA: 17:22:38 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: GUADALUPE MORALES             
+ NUMERO DE TELEFONO: 5528777133         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    COMIDA ENSALADA RUSA $20.0    $20.0
+ 1.50    POLLO ROSTIZADO      $115.0   $172.5
+                                        
+ TOTAL A PAGAR:......................$192.5
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

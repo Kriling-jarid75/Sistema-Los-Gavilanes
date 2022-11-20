@@ -1,0 +1,27 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000053           N.CLIENTE:42
+ FECHA DEL DIA: 2022-11-12   HORA: 16:49:42 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: DOMINGA CHAVEZ PEREZ          
+ NUMERO DE TELEFONO: 5529187950         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES: BIEN DORADO             
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.50    POLLO ROSTIZADO      $115.0   $172.5
+                                        
+ TOTAL A PAGAR:......................$172.5
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

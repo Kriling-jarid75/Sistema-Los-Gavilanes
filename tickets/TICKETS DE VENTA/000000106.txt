@@ -1,0 +1,27 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000106          N.CLIENTE:645
+ FECHA DEL DIA: 2021-12-31   HORA: 19:12:31 PM
+ VENDEDOR: NADIA                        
+ CLIENTE: HUGO SANCHEZ                  
+ NUMERO DE TELEFONO: 0                  
+ TIPO ENTREGA: RECOGER EN TIENDA        
+ OBSERVACIONES: EN 25 MINUTOS REGRESA   
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 2.00    POLLO ROSTIZADO      $105.0   $210.0
+                                        
+ TOTAL A PAGAR:......................$210.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

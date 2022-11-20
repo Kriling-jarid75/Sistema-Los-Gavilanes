@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000120          N.CLIENTE:569
+ FECHA DEL DIA: 2021-11-21   HORA: 17:04:35 PM
+ VENDEDOR: NADIA                        
+ CLIENTE: AXEL VELASQUEZ                
+ NUMERO DE TELEFONO: 0                  
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES: MÁS 2 SALSITAS CHIQUITAS
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.50    POLLO ROSTIZADO      $100.0   $150.0
+ 1.00    PAPAS TOTIS          $35.0    $35.0
+                                        
+ TOTAL A PAGAR:......................$185.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

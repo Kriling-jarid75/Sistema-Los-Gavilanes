@@ -1,0 +1,30 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:00000087           N.CLIENTE:2593
+ FECHA DEL DIA: 2022-8-20    HORA: 16:52:41 PM
+ VENDEDOR: JASHIA                       
+ CLIENTE: CINTIA VERONICA               
+ NUMERO DE TELEFONO: 5583565759         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES: GUACAMOLE               
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 2.00    PIERNA DE PAVO       $95.0    $190.0
+ 1.00    COMIDA SPAGHETTI     $20.0    $20.0
+ 1.00    TORTILLAS            $19.0    $19.0
+ 1.00    SALSAS               $15.0    $15.0
+                                        
+ TOTAL A PAGAR:......................$244.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

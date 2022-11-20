@@ -1,0 +1,29 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000185          N.CLIENTE:299
+ FECHA DEL DIA: 2021-11-27   HORA: 17:07:54 PM
+ VENDEDOR: BETSABE                      
+ CLIENTE: SANTA HERNANDEZ POLVO         
+ NUMERO DE TELEFONO: 0                  
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES: sALSA HABANERO          
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.00    COSTILLA ADOBADA     $100.0   $100.0
+ 0.50    POLLO ROSTIZADO      $100.0   $50.0
+ 1.00    SALSA GOURMET        $20.0    $20.0
+                                        
+ TOTAL A PAGAR:......................$170.0
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        

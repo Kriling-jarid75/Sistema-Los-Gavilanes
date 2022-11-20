@@ -1,0 +1,27 @@
+                              
+ ===============================================
+               ***TICKET DE COMPRA***
+ N.ORDEN:00000016           N.CLIENTE:2
+ FECHA DEL DIA: 2021-9-12    HORA: 19:56:23
+ VENDEDOR: NADIA PACHECO      
+ CLIENTE: LETICIA RUVALCABA PADILLA
+ NUMERO DE TELEFONO: 55491171714
+ TIPO ENTREGA: LLEVAR A DOMICILIO
+ OBSERVACIONES:               
+ ===============================================
+     ------Productos Adquiridos------
+ ID     NOMBRE     PRECIO    CANTIDAD    TOTAL
+ 2     POLLO ROSTIZADO    $100.0     3.50    $350.0
+                              
+ TOTAL A PAGAR:......................$350.0
+ ===============================================
+          !Gracias por su preferencia!
+                  !LOS GAVILANES!
+          !GRACIAS POR LA PROPINA :D !
+        **Nos somos los mejores del mundo,
+               pero si del rumbo**
+ Pedidos al: 5549115290 o 5549117979
+ ==============================================
+                              
+                              
+                              

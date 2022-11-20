@@ -1,0 +1,29 @@
+                              
+ ===============================================
+               ***TICKET DE COMPRA***
+ N.ORDEN:00000013           N.CLIENTE:2
+ FECHA DEL DIA: 2021-10-6    HORA: 18:48:0
+ VENDEDOR: manuel10           
+ CLIENTE: BERTHA RAMIREZ RAMIREZ
+ NUMERO DE TELEFONO: 5516994056
+ TIPO ENTREGA: LLEVAR A DOMICILIO
+ OBSERVACIONES: sdfsdfsdf     
+ ===============================================
+          ------Productos Adquiridos------
+ ID   NOMBRE         PRECIO    CANTIDAD    TOTAL
+ 1   POLLO ROSTIZADO	$100.0	1.00	$100.0
+ 3   COSTILLA	$100.0	1.00	$100.0
+ 13   COMIDAS	$15.0	1.00	$15.0
+                              
+ TOTAL A PAGAR:......................$215.0
+ ===============================================
+          !Gracias por su preferencia!
+                  !LOS GAVILANES!
+          !GRACIAS POR LA PROPINA :D !
+        **No somos los mejores del mundo,
+               pero si del rumbo**
+ Pedidos al: 5549115290 o 5549117979
+ ==============================================
+                              
+                              
+                              

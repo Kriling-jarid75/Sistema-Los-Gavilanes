@@ -1,0 +1,28 @@
+                                        
+ ===============================================
+               ***TICKET DE COMPRA***   
+ N.ORDEN:000000101          N.CLIENTE:1643
+ FECHA DEL DIA: 2022-3-27    HORA: 16:35:23 PM
+ VENDEDOR: BLANCA                       
+ CLIENTE: ROBERTO MIRELES               
+ NUMERO DE TELEFONO: 5575432712         
+ TIPO ENTREGA: LLEVAR A DOMICILIO       
+ OBSERVACIONES:                         
+ ===============================================
+      ------Productos Adquiridos------  
+ CANTIDAD     NOMBRE         PRECIO     TOTAL
+ 1.50    POLLO ROSTIZADO      $115.0   $172.5
+ 2.00    TORTILLAS            $19.0    $38.0
+                                        
+ TOTAL A PAGAR:......................$210.5
+ ===============================================
+          !Gracias por su preferencia!  
+                  !LOS GAVILANES!       
+          !GRACIAS POR LA PROPINA :D !  
+        **No somos los mejores del mundo,
+               pero si del rumbo**      
+ Pedidos al: 5549115290 o 5549117979    
+ ==============================================
+                                        
+                                        
+                                        
